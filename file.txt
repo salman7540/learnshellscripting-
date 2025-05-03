@@ -1,0 +1,7 @@
+Hi
+This is salman here
+learning unix shell scripting and
+learning visual studio code
+learnig codespace from github
+learning gir, github, github copilots
+happy learning
